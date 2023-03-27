@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ReactRouter-project/static/css/main.073c9b0a.css",
-    "main.js": "/ReactRouter-project/static/js/main.a702d007.js",
+    "main.js": "/ReactRouter-project/static/js/main.87724a23.js",
     "static/js/787.28cb0dcd.chunk.js": "/ReactRouter-project/static/js/787.28cb0dcd.chunk.js",
     "static/media/girl.jpg": "/ReactRouter-project/static/media/girl.78b9e797b650a91b6e24.jpg",
     "index.html": "/ReactRouter-project/index.html",
     "main.073c9b0a.css.map": "/ReactRouter-project/static/css/main.073c9b0a.css.map",
-    "main.a702d007.js.map": "/ReactRouter-project/static/js/main.a702d007.js.map",
+    "main.87724a23.js.map": "/ReactRouter-project/static/js/main.87724a23.js.map",
     "787.28cb0dcd.chunk.js.map": "/ReactRouter-project/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a702d007.js"
+    "static/js/main.87724a23.js"
   ]
 }
